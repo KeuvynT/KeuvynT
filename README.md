@@ -28,14 +28,14 @@ _4 – Expert: Represents the domain of the item._
 
 :computer: **REPORT OF GENERAL IT KNOWLEDGE**
 
-* MY SQL: Basic;
-* JAVA: Basic;
-* LUA: Basic;
-* MARKDOWN: Basic;
-* Programming Logic: Medium;
+* HTML : Advanced.
+* MARKDOWN: Advanced;
+* JAVA: Average;
+* Programming Logic: Average;
 * CSS: Medium;
 * GIT/GITHUB: Medium;
-* HTML : Advanced.
+* MY SQL: Basic;
+* LUA: Basic;
 
 **LANGUAGES**
 
